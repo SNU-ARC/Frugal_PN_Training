@@ -101,7 +101,7 @@ This repository is built on reusing codes of [PointMetaBase](https://github.com/
 ```tex
 @inproceedings {frugaltraining,
     title={Frugal 3D Point Cloud Model Training via Progressive Near Point Filtering and Fused Aggregation},
-    author={Donghyun Lee and Yejin Lee and Hongil Yoon and Jae W. Lee},
+    author={Donghyun Lee and Yejin Lee and Jae W. Lee and Hongil Yoon},
     booktitle = {European Conference on Computer Vision ({ECCV} 24)},
     year={2024},
 }
