@@ -41,4 +41,4 @@ model:
       norm: 'bn'
 
 batch_size: 8
-seed: 2425 #4333 #4333 #2425
+seed: 1111 #4333 #4333 #2425

@@ -97,3 +97,12 @@ CUDA_VISIBLE_DEVICES=0 bash script/main_segmentation.sh cfgs/[s3dis, scannet]/[p
 ## Acknowledgment
 This repository is built on reusing codes of [PointMetaBase](https://github.com/linhaojia13/PointMetaBase), [OpenPoints](https://github.com/guochengqian/openpoints) and [PointNeXt](https://github.com/guochengqian/PointNeXt). 
 
+## Citation
+```tex
+@inproceedings {frugaltraining,
+    title={Frugal 3D Point Cloud Model Training via Progressive Near Point Filtering and Fused Aggregation},
+    author={Donghyun Lee and Yejin Lee and Hongil Yoon and Jae W. Lee},
+    booktitle = {European Conference on Computer Vision ({ECCV} 24)},
+    year={2024},
+}
+```
